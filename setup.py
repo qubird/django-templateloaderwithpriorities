@@ -23,7 +23,7 @@ setup(name='django-templateloaderwithpriorities',
       zip_safe=False,
       install_requires=[
           # -*- Extra requirements: -*-
-          'django',
+          'django>=1.3',
       ],
       entry_points="""
       # -*- Entry points: -*-
